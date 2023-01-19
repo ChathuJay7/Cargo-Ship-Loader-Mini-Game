@@ -1,0 +1,11 @@
+C:\Users\DT\source\repos\CargoShipGUI\bin\Debug\CargoShipGUI.exe.config
+C:\Users\DT\source\repos\CargoShipGUI\bin\Debug\CargoShipGUI.exe
+C:\Users\DT\source\repos\CargoShipGUI\bin\Debug\CargoShipGUI.pdb
+C:\Users\DT\source\repos\CargoShipGUI\obj\Debug\CargoShipGUI.csproj.AssemblyReference.cache
+C:\Users\DT\source\repos\CargoShipGUI\obj\Debug\CargoShipGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\DT\source\repos\CargoShipGUI\obj\Debug\CargoShipGUI.Form1.resources
+C:\Users\DT\source\repos\CargoShipGUI\obj\Debug\CargoShipGUI.Properties.Resources.resources
+C:\Users\DT\source\repos\CargoShipGUI\obj\Debug\CargoShipGUI.csproj.GenerateResource.cache
+C:\Users\DT\source\repos\CargoShipGUI\obj\Debug\CargoShipGUI.csproj.CoreCompileInputs.cache
+C:\Users\DT\source\repos\CargoShipGUI\obj\Debug\CargoShipGUI.exe
+C:\Users\DT\source\repos\CargoShipGUI\obj\Debug\CargoShipGUI.pdb
