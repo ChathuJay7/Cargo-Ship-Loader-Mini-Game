@@ -7,6 +7,6 @@ CargoShip Loader is a mini game using C#. Need to load the cargoship until reach
 - Train Cars (17 units)
 
 ## Screen Shots
-<img src="ReamMe/img1.jpg" ><br>
-<img src="ReamMe/img2.jpg" ><br>
-<img src="ReamMe/img3.jpg" ><br>
+<img src="ReadMe/img1.jpg" ><br>
+<img src="ReadMe/img2.jpg" ><br>
+<img src="ReadMe/img3.jpg" ><br>
